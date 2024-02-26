@@ -3,6 +3,10 @@
 
 ## Overview 
 This project implements a cutting-edge fraud detection system utilizing a hybrid approach that combines machine learning (ML) with verifiable computation to enhance the accuracy and integrity of fraud detection in financial transactions. By leveraging the synthetic Banksim dataset, we aim to not only identify fraudulent activities with high precision but also ensure the verifiability of our ML model's predictions, providing cryptographic proof of their correctness. 
+
+## Project Description
+"TrustGuard: Verifiable Fraud Detection" leverages the cutting-edge capabilities of Giza Actions SDK to revolutionize fraud detection in financial transactions. This project harnesses the power of verifiable machine learning to not only detect fraudulent activities with unparalleled accuracy but also to ensure the integrity and transparency of the detection process. Utilizing the Giza Actions SDK, "TrustGuard" empowers developers to seamlessly integrate AI models with blockchain technology, providing cryptographic proofs that guarantee the authenticity and reliability of model predictions. This innovative approach addresses the growing need for security and trust in digital transactions, making "TrustGuard" a pioneering solution in the fight against financial fraud.
+
 ## Background 
 Financial fraud poses a significant threat to various sectors, including e-commerce, healthcare, and banking. Despite the advancements in rule-based systems and ML models for fraud detection, the adaptability and cunning nature of fraudsters necessitate more sophisticated solutions. This project introduces a verifiable fraud detection model that integrates the dynamic capabilities of ML with the transparency and security of verifiable computation. 
 ## Dataset 
